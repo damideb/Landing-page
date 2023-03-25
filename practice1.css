@@ -17,6 +17,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    
   }
 
 
@@ -163,6 +164,7 @@ p{
     width: 70%;
     margin-top: 20px;
     flex-flow: row wrap;
+
    
 }
 .login p{
@@ -187,6 +189,7 @@ button{
     margin: 0;
     border-radius: 5px;
     width: 8rem;
+    
 }
 input{
     padding: 5px;
